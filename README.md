@@ -3,7 +3,7 @@
 <h3 align="center">Motivated and diligent B.Tech student in
 Information Technology with a strong
 academic foundation and a passion for
-cutting edge technologies. Demonstrated
+cutting-edge technologies. Demonstrated
 aptitude for problem-solving and a keen
 interest in software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -14,9 +14,9 @@ interest in software development.</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Web Dev and Software developer**
+- 👯 I’m looking to collaborate on **Web and Software developer**
 
-- 💬 Ask me about **Software Engineering**
+- 💬 Ask me about **Software Development and DSA**
 
 - 📫 How to reach me **iamshivam7050@gmail.com**
 
